@@ -1,0 +1,2 @@
+use streamlit run app.py in terminal to run the Code 
+
