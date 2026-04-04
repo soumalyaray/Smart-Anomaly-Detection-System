@@ -7,7 +7,7 @@ from sklearn.ensemble import IsolationForest
 from sklearn.preprocessing import StandardScaler
 import time
 import random
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta #somalaya fuck you 
 
 # ─── Page Config ────────────────────────────────────────────────────────────
 st.set_page_config(
