@@ -1,2 +1,4 @@
+<p>cd</p>
+<p>npm run dev </p>
 use streamlit run app.py in terminal to run the Code 
 
